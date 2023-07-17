@@ -1,8 +1,6 @@
 package ApacheCommons.codec.language;
 
 // -----( IS Java Code Template v1.2
-// -----( CREATED: 2010-02-09 17:00:47 GMT
-// -----( ON-HOST: MCUKDXP
 
 import com.wm.data.*;
 import com.wm.util.Values;

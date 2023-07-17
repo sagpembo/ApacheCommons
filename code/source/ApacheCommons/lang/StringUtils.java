@@ -1,8 +1,6 @@
 package ApacheCommons.lang;
 
 // -----( IS Java Code Template v1.2
-// -----( CREATED: 2010-02-08 13:06:43 GMT
-// -----( ON-HOST: mcukdxp.eur.ad.sag
 
 import com.wm.data.*;
 import com.wm.util.Values;

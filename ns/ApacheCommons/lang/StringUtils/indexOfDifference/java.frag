@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">indexOfDifference</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNClN0cmluZwlzdHIxID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJz
+b3IsICJzdHIxIiApOw0KU3RyaW5nCXN0cjIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGlu
+ZUN1cnNvciwgInN0cjIiICk7DQpwaXBlbGluZUN1cnNvci5kZXN0cm95KCk7DQoNCmludCBpbmRl
+eEludCA9IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ1V0aWxzLmluZGV4T2ZEaWZmZXJl
+bmNlKHN0cjEsIHN0cjIpOw0KLy8gcGlwZWxpbmUNCnBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUu
+Z2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1cnNvciwgImluZGV4IiwgSW50
+ZWdlci50b1N0cmluZyhpbmRleEludCkpOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KCQ==
+</value>
+</Values>

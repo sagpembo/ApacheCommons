@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">right</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQpTdHJpbmcJc3RyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3Is
+ICJzdHIiICk7DQpTdHJpbmcJbGVuID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJz
+b3IsICJsZW4iICk7DQpwaXBlbGluZUN1cnNvci5kZXN0cm95KCk7DQoNClN0cmluZyByZXN1bHQg
+PSBvcmcuYXBhY2hlLmNvbW1vbnMubGFuZy5TdHJpbmdVdGlscy5yaWdodChzdHIsIEludGVnZXIu
+cGFyc2VJbnQobGVuKSk7DQovLyBwaXBlbGluZQ0KcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5n
+ZXRDdXJzb3IoKTsNCklEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yLCAicmVzdWx0IiwgcmVz
+dWx0ICk7DQpwaXBlbGluZUN1cnNvci5kZXN0cm95KCk7DQoJ</value>
+</Values>

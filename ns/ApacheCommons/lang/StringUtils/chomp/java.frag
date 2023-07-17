@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">chomp</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNClN0cmluZwlzdHIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1cnNv
+ciwgInN0ciIgKTsNClN0cmluZwlzZXBhcmF0b3IgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBl
+bGluZUN1cnNvciwgInNlcGFyYXRvciIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCg0K
+U3RyaW5nIHJlc3VsdDsNCmlmKHNlcGFyYXRvciE9bnVsbCkNCnsNCglyZXN1bHQgPSBvcmcuYXBh
+Y2hlLmNvbW1vbnMubGFuZy5TdHJpbmdVdGlscy5jaG9tcChzdHIsc2VwYXJhdG9yKTsNCn0NCmVs
+c2UNCnsNCglyZXN1bHQgPSBvcmcuYXBhY2hlLmNvbW1vbnMubGFuZy5TdHJpbmdVdGlscy5jaG9t
+cChzdHIpOw0KfQ0KLy8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yXzEgPSBw
+aXBlbGluZS5nZXRDdXJzb3IoKTsNCklEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yXzEsICJy
+ZXN1bHQiLCByZXN1bHQgKTsNCnBpcGVsaW5lQ3Vyc29yXzEuZGVzdHJveSgpOw0KCQ==</value>
+</Values>

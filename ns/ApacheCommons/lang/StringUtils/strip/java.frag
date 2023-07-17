@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">strip</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNClN0cmluZwlzdHIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1cnNv
+ciwgInN0ciIgKTsNClN0cmluZwlzdHJpcENoYXJzID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlw
+ZWxpbmVDdXJzb3IsICJzdHJpcENoYXJzIiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0K
+DQpTdHJpbmcgcmVzdWx0U3RyID0gIiI7DQppZihzdHJpcENoYXJzPT1udWxsIHx8IHN0cmlwQ2hh
+cnMubGVuZ3RoKCk8PTApDQp7DQoJcmVzdWx0U3RyID0gb3JnLmFwYWNoZS5jb21tb25zLmxhbmcu
+U3RyaW5nVXRpbHMuc3RyaXAoc3RyKTsJDQp9DQplbHNlDQp7DQoJcmVzdWx0U3RyID0gb3JnLmFw
+YWNoZS5jb21tb25zLmxhbmcuU3RyaW5nVXRpbHMuc3RyaXAoc3RyLHN0cmlwQ2hhcnMpOwkNCn0N
+Cg0KDQoNCi8vIHBpcGVsaW5lDQpwaXBlbGluZUN1cnNvciA9IHBpcGVsaW5lLmdldEN1cnNvcigp
+Ow0KDQpJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1cnNvciwgInJlc3VsdCIscmVzdWx0U3RyICk7
+DQpwaXBlbGluZUN1cnNvci5kZXN0cm95KCk7DQoJ</value>
+</Values>

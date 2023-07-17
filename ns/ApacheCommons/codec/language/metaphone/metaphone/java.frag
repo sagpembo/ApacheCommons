@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">metaphone</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQpTdHJpbmcJc3RyMSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vyc29y
+LCAic3RyMSIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCg0Kb3JnLmFwYWNoZS5jb21t
+b25zLmNvZGVjLmxhbmd1YWdlLk1ldGFwaG9uZSBtcCA9IG5ldyBvcmcuYXBhY2hlLmNvbW1vbnMu
+Y29kZWMubGFuZ3VhZ2UuTWV0YXBob25lKCk7DQoNClN0cmluZyByZXN1bHQgPSBtcC5tZXRhcGhv
+bmUoc3RyMSk7DQovLyBwaXBlbGluZQ0KcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJz
+b3IoKTsNCklEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yLCAiZW5jb2RlZFN0cmluZyIsIHJl
+c3VsdCApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KDQoJ</value>
+</Values>

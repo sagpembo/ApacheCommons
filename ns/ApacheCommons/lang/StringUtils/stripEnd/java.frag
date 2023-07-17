@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">stripEnd</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNClN0cmluZwlzdHIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1cnNv
+ciwgInN0ciIgKTsNClN0cmluZwlzdHJpcENoYXJzID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlw
+ZWxpbmVDdXJzb3IsICJzdHJpcENoYXJzIiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0K
+DQpTdHJpbmcgcmVzdWx0U3RyID0gIiI7DQpyZXN1bHRTdHIgPSBvcmcuYXBhY2hlLmNvbW1vbnMu
+bGFuZy5TdHJpbmdVdGlscy5zdHJpcEVuZChzdHIsc3RyaXBDaGFycyk7CQ0KDQoNCg0KLy8gcGlw
+ZWxpbmUNCnBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQoNCklEYXRhVXRp
+bC5wdXQoIHBpcGVsaW5lQ3Vyc29yLCAicmVzdWx0IixyZXN1bHRTdHIgKTsNCnBpcGVsaW5lQ3Vy
+c29yLmRlc3Ryb3koKTsNCgk=</value>
+</Values>

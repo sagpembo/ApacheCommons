@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">substringBefore</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNClN0cmluZwlzdHIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1cnNv
+ciwgInN0ciIgKTsNClN0cmluZwlzZXBhcmF0b3IgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBl
+bGluZUN1cnNvciwgInNlcGFyYXRvciIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCg0K
+U3RyaW5nIHJlc3VsdCA9IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ1V0aWxzLnN1YnN0
+cmluZ0JlZm9yZShzdHIsIHNlcGFyYXRvcik7DQovLyBwaXBlbGluZQ0KcGlwZWxpbmVDdXJzb3Ig
+PSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNCklEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yLCAi
+cmVzdWx0IiwgcmVzdWx0ICk7DQpwaXBlbGluZUN1cnNvci5kZXN0cm95KCk7DQoJ</value>
+</Values>

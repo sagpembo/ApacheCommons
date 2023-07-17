@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">substringBeforeLast</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNClN0cmluZwlzdHIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1cnNv
+ciwgInN0ciIgKTsNClN0cmluZwlzZXBhcmF0b3IgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBl
+bGluZUN1cnNvciwgInNlcGFyYXRvciIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCg0K
+U3RyaW5nIHJlc3VsdCA9IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ1V0aWxzLnN1YnN0
+cmluZ0JlZm9yZUxhc3Qoc3RyLCBzZXBhcmF0b3IpOw0KLy8gcGlwZWxpbmUNCnBpcGVsaW5lQ3Vy
+c29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1cnNv
+ciwgInJlc3VsdCIsIHJlc3VsdCApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KCQ==</value>
+</Values>

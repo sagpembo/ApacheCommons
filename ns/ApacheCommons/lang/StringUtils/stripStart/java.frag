@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">stripStart</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNClN0cmluZwlzdHIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1cnNv
+ciwgInN0ciIgKTsNClN0cmluZwlzdHJpcENoYXJzID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlw
+ZWxpbmVDdXJzb3IsICJzdHJpcENoYXJzIiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0K
+DQpTdHJpbmcgcmVzdWx0U3RyID0gIiI7DQpyZXN1bHRTdHIgPSBvcmcuYXBhY2hlLmNvbW1vbnMu
+bGFuZy5TdHJpbmdVdGlscy5zdHJpcFN0YXJ0KHN0cixzdHJpcENoYXJzKTsJDQoNCg0KDQovLyBw
+aXBlbGluZQ0KcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNCg0KSURhdGFV
+dGlsLnB1dCggcGlwZWxpbmVDdXJzb3IsICJyZXN1bHQiLHJlc3VsdFN0ciApOw0KcGlwZWxpbmVD
+dXJzb3IuZGVzdHJveSgpOw0KCQ==</value>
+</Values>

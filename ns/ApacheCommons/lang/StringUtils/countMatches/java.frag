@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">countMatches</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQpTdHJpbmcJc3RyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3Is
+ICJzdHIiICk7DQpTdHJpbmcJc3ViID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJz
+b3IsICJzdWIiICk7DQpwaXBlbGluZUN1cnNvci5kZXN0cm95KCk7DQoNCmludCBjb3VudEludCA9
+IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ1V0aWxzLmNvdW50TWF0Y2hlcyhzdHIsIHN1
+Yik7DQovLyBwaXBlbGluZQ0KcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsN
+CklEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yLCAiY291bnQiLCBJbnRlZ2VyLnRvU3RyaW5n
+KGNvdW50SW50KSApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KDQoJ</value>
+</Values>

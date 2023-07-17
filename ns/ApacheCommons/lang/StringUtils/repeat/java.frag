@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">repeat</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNClN0cmluZwlzdHIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1cnNv
+ciwgInN0ciIgKTsNClN0cmluZwlyZXBlYXQgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGlu
+ZUN1cnNvciwgInJlcGVhdCIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCg0KU3RyaW5n
+IHJlc3VsdCA9IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ1V0aWxzLnJlcGVhdChzdHIs
+IEludGVnZXIucGFyc2VJbnQocmVwZWF0KSk7DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlw
+ZWxpbmVDdXJzb3JfMSA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0KSURhdGFVdGlsLnB1dCggcGlw
+ZWxpbmVDdXJzb3JfMSwgInJlc3VsdCIsIHJlc3VsdCApOw0KcGlwZWxpbmVDdXJzb3JfMS5kZXN0
+cm95KCk7DQoJ</value>
+</Values>

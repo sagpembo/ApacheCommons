@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">getLevenshteinDistance</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQpTdHJpbmcJc3RyMSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vyc29y
+LCAic3RyMSIgKTsNClN0cmluZwlzdHIyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVD
+dXJzb3IsICJzdHIyIiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KDQppbnQgZGlzdCA9
+IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ1V0aWxzLmdldExldmVuc2h0ZWluRGlzdGFu
+Y2Uoc3RyMSxzdHIyKTsNCg0KDQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJz
+b3JfMSA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0KSURhdGFVdGlsLnB1dCggcGlwZWxpbmVDdXJz
+b3JfMSwgImRpc3RhbmNlIiwgSW50ZWdlci50b1N0cmluZyhkaXN0KSApOw0KcGlwZWxpbmVDdXJz
+b3JfMS5kZXN0cm95KCk7DQoNCgk=</value>
+</Values>

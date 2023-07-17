@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">substringsBetween</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQpTdHJpbmcJc3RyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3Is
+ICJzdHIiICk7DQpTdHJpbmcJb3BlbiA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vy
+c29yLCAib3BlbiIgKTsNClN0cmluZwljbG9zZSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVs
+aW5lQ3Vyc29yLCAiY2xvc2UiICk7DQpwaXBlbGluZUN1cnNvci5kZXN0cm95KCk7DQoNClN0cmlu
+Z1tdIHJlc3VsdCA9IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ1V0aWxzLnN1YnN0cmlu
+Z3NCZXR3ZWVuKHN0ciwgb3BlbiwgY2xvc2UpOw0KDQovLyBwaXBlbGluZQ0KcGlwZWxpbmVDdXJz
+b3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNCi8vU3RyaW5nW10JcmVzdWx0ID0gbmV3IFN0cmlu
+Z1sxXTsNCi8vcmVzdWx0WzBdID0gInJlc3VsdCI7DQpJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1
+cnNvciwgInJlc3VsdCIsIHJlc3VsdCApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KDQoJ
+</value>
+</Values>

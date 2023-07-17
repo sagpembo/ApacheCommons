@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">escapeXmlIData</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNCi8vIGRvY3VtZW50DQpJRGF0YQlkb2N1bWVudCA9IElEYXRhVXRpbC5nZXRJRGF0
+YSggcGlwZWxpbmVDdXJzb3IsICJkb2N1bWVudCIgKTsNCmlmICggZG9jdW1lbnQgPT0gbnVsbCkN
+CnsNCgl0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbigiSW5wdXQgZG9jdW1lbnQgaXMgbnVsbCIp
+Ow0KfQ0KDQoNCg0Kd2Fsa0lEYXRhKGRvY3VtZW50LEVTQ0FQRSk7DQoNCg0KcGlwZWxpbmVDdXJz
+b3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNCklEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29y
+LCAiZG9jdW1lbnQiLCBkb2N1bWVudCApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KDQoN
+Cgk=</value>
+</Values>

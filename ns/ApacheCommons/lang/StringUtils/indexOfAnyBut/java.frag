@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">indexOfAnyBut</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQpTdHJpbmcJc3RyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3Is
+ICJzdHIiICk7DQpTdHJpbmcgc2VhcmNoQ2hhcnMgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBl
+bGluZUN1cnNvciwgInNlYXJjaENoYXJzIiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0K
+DQppbnQgcmVzdWx0ID0gb3JnLmFwYWNoZS5jb21tb25zLmxhbmcuU3RyaW5nVXRpbHMuaW5kZXhP
+ZkFueUJ1dChzdHIsIHNlYXJjaENoYXJzKTsNCg0KLy8gcGlwZWxpbmUNCnBpcGVsaW5lQ3Vyc29y
+ID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1cnNvciwg
+ImluZGV4IiwgSW50ZWdlci50b1N0cmluZyhyZXN1bHQpICk7DQpwaXBlbGluZUN1cnNvci5kZXN0
+cm95KCk7DQoJ</value>
+</Values>

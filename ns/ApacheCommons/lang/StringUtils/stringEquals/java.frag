@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">stringEquals</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQpTdHJpbmcJc3RyMSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vyc29y
+LCAic3RyMSIgKTsNClN0cmluZwlzdHIyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVD
+dXJzb3IsICJzdHIyIiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KDQpib29sZWFuIHJl
+c3VsdEJvb2w7DQpyZXN1bHRCb29sID0gb3JnLmFwYWNoZS5jb21tb25zLmxhbmcuU3RyaW5nVXRp
+bHMuZXF1YWxzKHN0cjEsIHN0cjIpOw0KDQovLyBwaXBlbGluZQ0KcGlwZWxpbmVDdXJzb3IgPSBw
+aXBlbGluZS5nZXRDdXJzb3IoKTsNCklEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yLCAicmVz
+dWx0IiwgQm9vbGVhbi50b1N0cmluZyhyZXN1bHRCb29sKSApOw0KcGlwZWxpbmVDdXJzb3IuZGVz
+dHJveSgpOw0KCQ==</value>
+</Values>

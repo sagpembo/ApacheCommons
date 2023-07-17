@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">mid</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNClN0cmluZwlzdHIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1cnNv
+ciwgInN0ciIgKTsNClN0cmluZwlwb3MgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1
+cnNvciwgInBvcyIgKTsNClN0cmluZwlsZW4gPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGlu
+ZUN1cnNvciwgImxlbiIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCg0KU3RyaW5nIHJl
+c3VsdCA9IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ1V0aWxzLm1pZChzdHIsIEludGVn
+ZXIucGFyc2VJbnQocG9zKSwgSW50ZWdlci5wYXJzZUludChsZW4pKTsNCg0KLy8gcGlwZWxpbmUN
+CnBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwucHV0KCBw
+aXBlbGluZUN1cnNvciwgInJlc3VsdCIsIHJlc3VsdCApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJv
+eSgpOw0KCQ==</value>
+</Values>

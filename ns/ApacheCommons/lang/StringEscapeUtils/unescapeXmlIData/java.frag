@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">unescapeXmlIData</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">U3lzdGVtLm91dC5wcmludGxuKCI+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Iik7DQoNCi8vIHBpcGVs
+aW5lDQpJRGF0YUN1cnNvciBwaXBlbGluZUN1cnNvciA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0K
+Ly8gZG9jdW1lbnQNCklEYXRhCWRvY3VtZW50ID0gSURhdGFVdGlsLmdldElEYXRhKCBwaXBlbGlu
+ZUN1cnNvciwgImRvY3VtZW50IiApOw0KaWYgKCBkb2N1bWVudCA9PSBudWxsKQ0Kew0KCXRocm93
+IG5ldyBTZXJ2aWNlRXhjZXB0aW9uKCJJbnB1dCBkb2N1bWVudCBpcyBudWxsIik7DQp9DQoNCg0K
+DQp3YWxrSURhdGEoZG9jdW1lbnQsVU5FU0NBUEUpOw0KDQoNCnBpcGVsaW5lQ3Vyc29yID0gcGlw
+ZWxpbmUuZ2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1cnNvciwgImRvY3Vt
+ZW50IiwgZG9jdW1lbnQgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCg0KDQoJ</value>
+</Values>

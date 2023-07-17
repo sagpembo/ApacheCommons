@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">soundex</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNClN0cmluZwlzdHIxID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJz
+b3IsICJzdHIxIiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KDQpvcmcuYXBhY2hlLmNv
+bW1vbnMuY29kZWMubGFuZ3VhZ2UuU291bmRleCBzb3VuZGV4ID0gbmV3IG9yZy5hcGFjaGUuY29t
+bW9ucy5jb2RlYy5sYW5ndWFnZS5Tb3VuZGV4KCk7DQpTdHJpbmcgcmVzdWx0ID0gc291bmRleC5z
+b3VuZGV4KHN0cjEpOw0KLy8gcGlwZWxpbmUNCnBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0
+Q3Vyc29yKCk7DQpJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1cnNvciwgInJlc3VsdCIsIHJlc3Vs
+dCApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KCQ==</value>
+</Values>

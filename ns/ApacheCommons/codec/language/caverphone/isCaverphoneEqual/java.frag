@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">isCaverphoneEqual</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNClN0cmluZwlzdHIxID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJz
+b3IsICJzdHIxIiApOw0KU3RyaW5nCXN0cjIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGlu
+ZUN1cnNvciwgInN0cjIiICk7DQpwaXBlbGluZUN1cnNvci5kZXN0cm95KCk7DQoNCm9yZy5hcGFj
+aGUuY29tbW9ucy5jb2RlYy5sYW5ndWFnZS5DYXZlcnBob25lIGNhdmVycGhvbmUgPSBuZXcgb3Jn
+LmFwYWNoZS5jb21tb25zLmNvZGVjLmxhbmd1YWdlLkNhdmVycGhvbmUoKTsNCg0KYm9vbGVhbiBy
+ZXN1bHQgPSBjYXZlcnBob25lLmlzQ2F2ZXJwaG9uZUVxdWFsKHN0cjEsIHN0cjIpOw0KLy8gcGlw
+ZWxpbmUNCnBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwu
+cHV0KCBwaXBlbGluZUN1cnNvciwgInJlc3VsdCIsIEJvb2xlYW4udG9TdHJpbmcocmVzdWx0KSAp
+Ow0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KCQ==</value>
+</Values>

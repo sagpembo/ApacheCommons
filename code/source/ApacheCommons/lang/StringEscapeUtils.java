@@ -32,7 +32,6 @@ public final class StringEscapeUtils
 		// @sigtype java 3.5
 		// [i] field:0:required str
 		// [o] field:0:required result
-		
 		// pipeline
 		IDataCursor pipelineCursor = pipeline.getCursor();
 		String	str = IDataUtil.getString( pipelineCursor, "str" );

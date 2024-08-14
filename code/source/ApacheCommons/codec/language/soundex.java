@@ -34,7 +34,6 @@ public final class soundex
 		// [i] field:0:required str1
 		// [i] field:0:required str2
 		// [o] field:0:required result
-		
 		// pipeline
 		IDataCursor pipelineCursor = pipeline.getCursor();
 		String	str1 = IDataUtil.getString( pipelineCursor, "str1" );
@@ -53,8 +52,6 @@ public final class soundex
 		pipelineCursor = pipeline.getCursor();
 		IDataUtil.put( pipelineCursor, "result", Integer.toString(resultInt) );
 		pipelineCursor.destroy();
-		
-			
 		// --- <<IS-END>> ---
 
                 
@@ -134,7 +131,6 @@ public final class soundex
 		// @sigtype java 3.5
 		// [i] field:0:required str1
 		// [o] field:0:required result
-		
 		// pipeline
 		IDataCursor pipelineCursor = pipeline.getCursor();
 		String	str1 = IDataUtil.getString( pipelineCursor, "str1" );
@@ -146,7 +142,6 @@ public final class soundex
 		pipelineCursor = pipeline.getCursor();
 		IDataUtil.put( pipelineCursor, "result", result );
 		pipelineCursor.destroy();
-			
 		// --- <<IS-END>> ---
 
                 

@@ -224,7 +224,7 @@ public final class StringUtils
 		// [i] field:0:required str
 		// [i] field:0:required searchStr
 		// [o] field:0:required result
-		// pipeline
+		// pipeline 
 		IDataCursor pipelineCursor = pipeline.getCursor();
 		String	str = IDataUtil.getString( pipelineCursor, "str" );
 		String	searchStr = IDataUtil.getString( pipelineCursor, "searchStr" );
@@ -235,8 +235,6 @@ public final class StringUtils
 		pipelineCursor = pipeline.getCursor();
 		IDataUtil.put( pipelineCursor, "result", Boolean.toString(result));
 		pipelineCursor.destroy();
-		
-			
 		// --- <<IS-END>> ---
 
                 
@@ -252,7 +250,7 @@ public final class StringUtils
 		// [i] field:0:required str
 		// [i] field:0:required searchStr
 		// [o] field:0:required result
-		// pipeline
+		// pipeline 
 		IDataCursor pipelineCursor = pipeline.getCursor();
 		String	str = IDataUtil.getString( pipelineCursor, "str" );
 		String	searchStr = IDataUtil.getString( pipelineCursor, "searchStr" );
@@ -263,8 +261,6 @@ public final class StringUtils
 		pipelineCursor = pipeline.getCursor();
 		IDataUtil.put( pipelineCursor, "result", Boolean.toString(result));
 		pipelineCursor.destroy();
-		
-			
 		// --- <<IS-END>> ---
 
                 
@@ -280,8 +276,7 @@ public final class StringUtils
 		// [i] field:0:required str
 		// [i] field:0:required invalidChars
 		// [o] field:0:required result
-		
-		// pipeline
+		// pipeline 
 		IDataCursor pipelineCursor = pipeline.getCursor();
 		String	str = IDataUtil.getString( pipelineCursor, "str" );
 		String	invalidChars = IDataUtil.getString( pipelineCursor, "invalidChars" );
@@ -293,8 +288,6 @@ public final class StringUtils
 		pipelineCursor = pipeline.getCursor();
 		IDataUtil.put( pipelineCursor, "result", Boolean.toString(result) );
 		pipelineCursor.destroy();
-		
-			
 		// --- <<IS-END>> ---
 
                 
@@ -310,8 +303,7 @@ public final class StringUtils
 		// [i] field:0:required str
 		// [i] field:0:required validChars
 		// [o] field:0:required result
-		
-		// pipeline
+		// pipeline 
 		IDataCursor pipelineCursor = pipeline.getCursor();
 		String	str = IDataUtil.getString( pipelineCursor, "str" );
 		String	validChars = IDataUtil.getString( pipelineCursor, "validChars" );
@@ -323,8 +315,6 @@ public final class StringUtils
 		pipelineCursor = pipeline.getCursor();
 		IDataUtil.put( pipelineCursor, "result", Boolean.toString(result) );
 		pipelineCursor.destroy();
-		
-			
 		// --- <<IS-END>> ---
 
                 
@@ -340,7 +330,7 @@ public final class StringUtils
 		// [i] field:0:required str
 		// [i] field:0:required sub
 		// [o] field:0:required count
-		// pipeline
+		// pipeline 
 		IDataCursor pipelineCursor = pipeline.getCursor();
 		String	str = IDataUtil.getString( pipelineCursor, "str" );
 		String	sub = IDataUtil.getString( pipelineCursor, "sub" );
@@ -351,8 +341,6 @@ public final class StringUtils
 		pipelineCursor = pipeline.getCursor();
 		IDataUtil.put( pipelineCursor, "count", Integer.toString(countInt) );
 		pipelineCursor.destroy();
-		
-			
 		// --- <<IS-END>> ---
 
                 
